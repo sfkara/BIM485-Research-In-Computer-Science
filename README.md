@@ -8,3 +8,4 @@ I choosed EmguCV for my image and text recognition from video project,than resea
  2.2 You should add all dll from x64 (in case of 64 bit OS) to your project and don't forget that for each x64 dll select the options of        "Always copy"   in their properties.
  2.3 Project properties and from Build option ------> platform as x64 (or whatever your OS requirement)
 ---------------------------------------------------------------
+Users should change whatever photo directory is their want of their photo in Program.cs 

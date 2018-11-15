@@ -7,5 +7,8 @@
  **2.1.**You should reference to the Emgu.CV.World
  **2.2.**You should add all dll from x64 (in case of 64 bit OS) to your project and don't forget that for each x64 dll select the options of        "Always copy"   in their properties.
  **2.3.**Project properties and from Build option ------> platform as x64 (or whatever your OS requirement).
----------------------------------------------------------------
->_Users should change whatever photo directory is their want of their photo in Program.cs 
+------------------------------------------------------------------
+>Users should change whatever photo directory is their want of their photo in Program.cs 
+------------------------------------------------------------------
+>We can use camera or any video you want(you should choose the directory),there is a form app for this process.You can see start,stop and pause process and capturing any video you want.
+-----------------------------------------------------------------

@@ -12,5 +12,5 @@
 ------------------------------------------------------------------
 >Users should change whatever photo directory is their want of their photo in Program.cs 
 ------------------------------------------------------------------
->We can use camera or any video you want(you should choose the directory),there is a form app for this process.You can see start,stop and pause process and capturing any video you want.
+>We can use camera or any video you want(you should choose the directory),there is a form app for inside cathhing video and camera file .You can see start,stop and pause process and capturing any video you want.
 -----------------------------------------------------------------

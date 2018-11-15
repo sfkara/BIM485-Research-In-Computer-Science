@@ -1,8 +1,8 @@
 # BIM485-Research In Computer Science
 ---------------------------------------------------------------
->I choosed EmguCV for my image and text recognition from video project,than researched for resources.In tutorial_no1 includes basic image recognition process.
+>I choosed EmguCV for my image and text recognition from video project,than researched for resources.In tutorial_no1 includes basic image recognition process.Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc. The wrapper can be compiled by Visual Studio, Xamarin Studio and Unity, it can run on Windows, Linux, Mac OS X, iOS, Android and Windows Phone.
 
-
+---------------------------------------------------------------
 
 > 1.** installing EmguCV
 ** 2.** configure EmguCV
